@@ -15,7 +15,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Signup Form:
+Signup Form
 
 	The signup form won't actually do anything (other than report back with a "thank you" message)
 	until you tie it to either a third party service (eg. MailChimp) or your own hosted solution.
